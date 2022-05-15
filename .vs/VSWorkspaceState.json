@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Activities",
+    "\\Activities\\Diagrams",
+    "\\Activities\\Models"
   ],
-  "SelectedNode": "\\Activities.sln",
+  "SelectedNode": "\\Activities\\Models\\IDance.cs",
   "PreviewInSolutionExplorer": false
 }
